@@ -14,7 +14,7 @@ The goal is to **evaluate performance, speed, and trade-offs** between a traditi
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 1. **Data Preparation** – Loaded and merged Amazon, Yelp, IMDB reviews.  
 2. **Feature Engineering** – Applied **TF-IDF vectorizer** (with stopword removal, min_df=2).  
 3. **Classic ML Model** – Trained Logistic Regression with stratified train/test split.  
@@ -25,7 +25,7 @@ The goal is to **evaluate performance, speed, and trade-offs** between a traditi
 
 ---
 
-## 📊 Results
+## Results
 | Metric               | Logistic Regression 
 |-----------------------|---------------------
 | Accuracy              | 0.79
@@ -36,7 +36,7 @@ The goal is to **evaluate performance, speed, and trade-offs** between a traditi
 | Recall (Positive)     | 0.73             
 | F1 (Positive)         | 0.78              
 
-
+for gemini the results were 0.99 accurate.
 ---
 
 ## Reflection
@@ -90,7 +90,7 @@ The goal is to **evaluate performance, speed, and trade-offs** between a traditi
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python 3.10  
 - Pandas 2.2.2  
 - Scikit-learn  
