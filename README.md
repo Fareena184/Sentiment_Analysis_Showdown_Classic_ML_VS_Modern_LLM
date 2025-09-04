@@ -100,7 +100,7 @@ for gemini the results were 0.99 accurate.
 ---
 
 ##  Demo
-- **Colab Notebook:** [View in Colab]((https://colab.research.google.com/drive/12k-seQTMDgOCjd9adoXcSh5ZEwfkVrbJ?usp=sharing))  
+- **Colab Notebook:** [View in Colab](https://colab.research.google.com/drive/12k-seQTMDgOCjd9adoXcSh5ZEwfkVrbJ?usp=sharing)  
 
 ---
 
