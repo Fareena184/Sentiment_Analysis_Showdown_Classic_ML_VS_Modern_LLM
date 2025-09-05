@@ -1,5 +1,4 @@
 # Sentiment_Analysis_Showdown_Classic_ML_VS_Modern_LLM
-# Classic ML vs Gemini LLM: A Sentiment Analysis Showdown
 
 ## Project Overview
 This project compares two approaches to **sentiment analysis** on text reviews:  
